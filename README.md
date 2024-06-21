@@ -31,16 +31,16 @@ This project implements a linear regression model to predict house prices based 
 
 ## Usage
 
-1. Run the Jupyter notebook `Prodigy-ML-01.ipynb` or execute the Python script `Prodigy-ML-01.py`.
+1. Run the Jupyter notebook `ML_Task01.ipynb` or execute the Python script `ML_Task01.py`.
    
    ```bash
-   jupyter notebook Prodigy-ML-01.ipynb
+   jupyter notebook ML_Task01.ipynb
    ```
 
    or
 
    ```bash
-   python Prodigy-ML-01.py
+   python ML_Task01.py
    ```
 
 2. Follow the instructions in the notebook/script to:
@@ -51,8 +51,8 @@ This project implements a linear regression model to predict house prices based 
 
 ## File Descriptions
 
-- `Prodigy-ML-01.ipynb`: Jupyter notebook containing the implementation of the linear regression model.
-- `Prodigy-ML-01.py`: Python script for the same implementation as the notebook.
+- `ML_Task01.ipynb`: Jupyter notebook containing the implementation of the linear regression model.
+- `ML_Task01.py`: Python script for the same implementation as the notebook.
 - `train.csv`: Dataset used for training the model.
 - `test.csv`: Dataset used for testing the model.
 - `README.md`: This file, providing an overview of the project, installation instructions, usage guide, and file descriptions.
